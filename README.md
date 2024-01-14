@@ -1,5 +1,7 @@
 # cypress-example-api-testing
 
+The dg_working_from_start branch on my fork contains my completed set of tests following Glen's lesson on the blog post mentioned below.
+
 > [Cypress](https://cypress.op) E2E runner can also test Rest and other APIs
 
 [![CircleCI](https://circleci.com/gh/cypress-io/cypress-example-api-testing.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-example-api-testing) [![renovate-app badge][renovate-badge]][renovate-app]
